@@ -8030,26 +8030,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a.movahedzadeh\\.nuget\\packages\\": {}
+    "C:\\Users\\arefm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\training\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "E:\\dotnet\\razor-pages-movie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "D:\\training\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\a.movahedzadeh\\.nuget\\packages\\",
-      "outputPath": "D:\\training\\Razor\\RazorPagesMovie\\obj\\",
+      "projectPath": "E:\\dotnet\\razor-pages-movie\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\arefm\\.nuget\\packages\\",
+      "outputPath": "E:\\dotnet\\razor-pages-movie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a.movahedzadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\arefm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8117,7 +8115,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
